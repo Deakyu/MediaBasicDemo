@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListSongFromStorage</string>
+    <string name="not_available">Not Available</string>
+    <string name="exit_app">Exiting App&#8230;</string>
+    <string name="permission_title">Permission Required</string>
+    <string name="permission_info">Let us access your media files so we can play music</string>
+    <string name="allow">Allow</string>
+    <string name="deny">Deny</string>
+</resources>
